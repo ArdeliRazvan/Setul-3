@@ -1,0 +1,14 @@
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\bin\Debug\net8.0\Program 21.exe
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\bin\Debug\net8.0\Program 21.deps.json
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\bin\Debug\net8.0\Program 21.runtimeconfig.json
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\bin\Debug\net8.0\Program 21.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\bin\Debug\net8.0\Program 21.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\obj\Debug\net8.0\Program 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\obj\Debug\net8.0\Program 21.AssemblyInfoInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\obj\Debug\net8.0\Program 21.AssemblyInfo.cs
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\obj\Debug\net8.0\Program 21.csproj.CoreCompileInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\obj\Debug\net8.0\Program 21.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\obj\Debug\net8.0\refint\Program 21.dll
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\obj\Debug\net8.0\Program 21.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\obj\Debug\net8.0\Program 21.genruntimeconfig.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 21\obj\Debug\net8.0\ref\Program 21.dll

@@ -1,0 +1,7 @@
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 10\bin\Debug\Program 10.exe.config
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 10\bin\Debug\Program 10.exe
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 10\bin\Debug\Program 10.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 10\obj\Debug\Program 10.csproj.AssemblyReference.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 10\obj\Debug\Program 10.csproj.CoreCompileInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 10\obj\Debug\Program 10.exe
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 3\Program 10\obj\Debug\Program 10.pdb
